@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17192" systemVersion="19G2021" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="SavedSite" representedClassName="SavedSite" syncable="YES" codeGenerationType="class">
+        <attribute name="distance" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="image" optional="YES" attributeType="String"/>
+        <attribute name="lattitude" attributeType="String"/>
+        <attribute name="longitude" attributeType="String"/>
+        <attribute name="name" attributeType="String"/>
+        <attribute name="pageID" attributeType="String"/>
+    </entity>
+    <elements>
+        <element name="SavedSite" positionX="-63" positionY="-18" width="128" height="28"/>
+    </elements>
+</model>
