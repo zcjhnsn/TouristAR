@@ -6,5 +6,5 @@ This app was tested on an iPhone 12 Pro running iOS 14 and an iPhone XR running 
 
 The most difficult part about this project was getting the labels to line up in the correct place relative to the user. There was a bit of math and testing involved but I got it as close as I could. Apple's ARKit framework made working in AR so much easier than I thought it would be.
 
-A demo video can be found here: 
+A demo video can be found here: https://drive.google.com/file/d/1QTzN3lwXhK-iSh2ynU1MiA8F4v4kWtrU/view?usp=sharing 
 
